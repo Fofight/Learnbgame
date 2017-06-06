@@ -1,4 +1,4 @@
-1:H,Hyrdogen
+1:H,Hydrogen
 2:He,Helium
 3:Li,Lithium
 4:Be,Beryllium
