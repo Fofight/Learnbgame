@@ -1,3 +1,4 @@
+# -*- coding = utf-8 -*-
 #
 #this is the keyboard rules about pygame
 #
