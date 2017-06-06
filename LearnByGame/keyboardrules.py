@@ -1,5 +1,5 @@
 #
-#this is the keyboard rules
+#this is the keyboard rules about pygame
 #
 
 def pygameKeyboardRule_KEYDOWN():
