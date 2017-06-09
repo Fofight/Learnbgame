@@ -44,8 +44,9 @@ taxonomy systematics
 种：每只狗是一个动物体，所有的狗属于同一个物种。
 
 
-原核生物界(古细菌界和真细菌界)、
-原生生物界、
-菌物界、
-植物界
-动物界
+原核生物界 monera
+原生生物界 protista
+菌物界 fungi
+植物界 plantae
+动物界 animalia
+
