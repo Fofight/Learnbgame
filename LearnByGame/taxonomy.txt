@@ -1,0 +1,51 @@
+taxonomy systematics
+
+信息分类学information taxonomy、数值分类学numerical taxonomy、
+农业生态分类学agro-ecological taxonomy、经典分类学Classical Taxonomy、
+现代分类学Modern Taxonomy、土壤分类学Soil Taxology、化学分类学chemical taxonomy、
+分子分类学molecular taxonomy、教育目标分类学taxonomy of educational objectives、
+犯罪分类学criminal taxology等等
+
+
+
+狭义分类学包括：生物分类学Biotaxy、微生物分类学microbial taxonomy、
+动物分类学animal taxonomy、植物分类学plant taxonomy、
+脊椎动物分类学Vertebrate Taxology、鱼类分类学Fish Taxonomy、
+昆虫分类学entomological taxonomy、鸟类分类学Birds Taxonomy、
+寄生虫分类学Parasite Taxology、病毒分类学Virus Taxology、
+实验分类学Experimental Taxonomy、种子植物分类学Taxonomy of Seed Plants、
+被子植物分类学Angiosperm Taxonomy、遗传分类学genetic taxonomy、
+进化分类学evolutionary taxonomy。
+
+
+界 Kingdom
+门 Phylum
+亚门 Subphylum
+总纲 Superclass
+纲 Class
+亚纲 Subclass
+总目 Superorder
+目 Order
+亚目 Suborder
+总科 Superfamily
+科 Family
+亚科 Subfamily
+属 Genus
+亚属 Subgenus
+种 Species
+变种 varietas
+
+界：所有的动物都属于动物界，动物界中包含许多门。
+门：具有一些共同特征来自不同纲的动物，归入同一个门。
+纲：具有一些共同特征的来自不同目的动物，归入同一个纲。
+目：具有一些共同特征的来自不同科的动物，归入同一个目。
+科：具有一些共同特征的来自不同属的动物，归入同一个科。
+属：一些不同种类的动物，例如狗与狼的特征很相似，它们归入同一个属。
+种：每只狗是一个动物体，所有的狗属于同一个物种。
+
+
+原核生物界(古细菌界和真细菌界)、
+原生生物界、
+菌物界、
+植物界
+动物界
