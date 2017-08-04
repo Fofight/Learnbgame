@@ -1,3 +1,4 @@
+#这是pygame上对应的键盘的表示
 KEYDOWN
 KEYUP
 KMOD_ALT
