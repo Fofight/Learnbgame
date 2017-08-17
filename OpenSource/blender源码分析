@@ -1,6 +1,73 @@
-blender_linux.cmake  ----------|     
-                               |-----config-------------|
-blender_linux_player.cmake ----|     master.cfg---------|
+                                                                                                                                |
+blender_linux.cmake-----------|                                                                     |
+                              |----config-------------|                                                                                         |
+blender_linux_player.cmake----|    master.cfg---------|                                                                                                                          |
+                                   master_unpack.py---|                                                                                             |
+                                   slave_compile.py---|---buildbot---                                                                                             |
+                                   slave_pack.py------|                                                                                            |
+                                   slave_rsync.py-----|                                                                                            |
+                                   slave_test.py------|     -build_environment---                                                                                       |
+                                                            -cmake---                                                                   |
+                                                            -package_spec---                                                           |
+
+llvm.patch---|                          |                                 -utils---                                                                   |
+             |---install_deps_patches---|                                                                                                                  |
+osl.patch----|                                                                                                                               |
+                                                                                                                                |
+                                                                                                                                |
+                                                                                                                                |
+                                                                                                                                |
+                                                                                                                                |
+                                                                                                                                |
+                                                                                                                                |
+                                                                                                                                |
+                                                                                                                                |
+                                                                                                                                |
+                                                                                                                                |
+                                                                                                                                |
+                                                                                                                                |
+                                                                                                                                |
+                                                                                                                                |
+                                                                                                                                |
+                                                                                                                                |
+                                                                                                                                |
+                                                                                                                                |
+                                                                                                                                |
+                                                                                                                                |
+                                                                                                                                |
+                                                                                                                                |
+                                                                                                                              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+                               |------------------|
                                      master_unpack.py---|
                                      slave_compile.py---|----------------------------buildbot------------|
                                      slave_pack.py------|                                                |
