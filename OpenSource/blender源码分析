@@ -1,0 +1,65 @@
+blender_linux.cmake  ----------|     
+                               |-----config-------------|
+blender_linux_player.cmake ----|     master.cfg---------|
+                                     master_unpack.py---|
+                                     slave_compile.py---|----------------------------buildbot------------|
+                                     slave_pack.py------|                                                |
+                                     slave_rsync.py-----|                                                |
+                                     slave_test.py------|                                                |
+                                     
+                                    
+llvm.patch---|
+             |-----install_deps_patches----|                                                                  |
+osl.patch----|                             |------------------------------------------build_environment---|
+                   install_deps.sh---------|
+                   
+                   
+blender_full.cmak----------|
+blender_headerless.cmake---|
+blender_lite.cmake---------|----------------config-----------------------------|
+blender_release.cmake------|                                                   |
+bpy_module.cmake-----------|                                                   |
+cycles_standalone.cmake----|                                                   |
+                                                                               |
+cmake_linux_install.sh----|                                                    |
+make_quicky.py------------|-----------------example_scripts--------------------|
+make_quite.sh-------------|                                                    |  
+                                                                               |
+                                                                               |
+FindAlembic.cmake------------------|                                           |
+FindAudaspace.cmake----------------|                                           |
+FindEigen3.cmake-------------------|                                           |
+FindFftw3.cmake---FindGLEW.cmake---|                                           |
+FindHDF5.cmake---------------------|                                           |
+FindlcuLinux.cmake-----------------|-------Module------------------------------|
+FindJack.cmake---------------------|       buildinfo.cmake---------------------|
+FindJeMalloc.cmake-----------------|       clang_array_check.py----------------|
+FindLLVM.cmake---------------------|       cmake_consistency_check.py----------|
+FindLZO.cmake----------------------|       cmake_consistency_check_config.py---|
+FindOpenCOLLADA.cmake--------------|       cmake_netbeans_project.py-----------|
+FindOpenColorlO.cmake--------------|       cmake_qtcreator_project.py----------|------cmake---
+FindOpenEXR.cmake------------------|       cmake_static_check_clang_array.py---|
+FindOpenGLES.cmake-----------------|       cmake_static_check_cppcheck.py------|
+FindOpenlmagelO.cmake--------------|       cmake_static_check_smatck.py--------|
+FindOpenJPEG.cmake-----------------|       cmake_static_check_sparse.py--------|
+FindOpenShadingLanguage.cmake------|       cmake_static_check_splint.py--------|
+FindOpenSubdiv.cmake---------------|       macros.cmake------------------------|
+FindOpenVDB.cmake------------------|       packaging.cmake---------------------|
+FindPCRE.cmake---------------------|       project_info.py---------------------|
+FindPugiXML.cmake------------------|       project_source_info.py--------------|
+FindPythonLibsUnix.cmake-----------|       RpmBuild.cmake----------------------|
+FindSDL2.cmake---------------------|                                           |
+FindSndFile.cmake------------------|                                           |
+FindSpacenav.cmake-----------------|                                           |
+FindTBB.cmake----------------------|                                           |
+FindXML2.cmake---------------------|                                           |
+GTestTesting.cmake-----------------|                                           |
+                                                                               |
+                                                                               |
+                                                                               |
+platform_apple.cmake---------|                                                 |
+platform_unix.cmake----------|                                                 |
+platform_win32.cmake---------|-------------platform----------------------------|
+platform_win32_mingw.cmake---|
+platform_win32_msvc.cmake----|
+
