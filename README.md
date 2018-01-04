@@ -1,6 +1,22 @@
+# 这里，我们提出一个东西，框架吧，项目吧，亦或模型，但是总感觉都不太合适，不够高大上？不够准确？总之就是感觉不太合适吧，所以先用东西来称呼他，我们想做的，或想开发的东西，梦想吧？信仰般的召唤？其实就是在心里想做那么一个东西，但是真正要用口头或文字来完整确切地描述却描述不出来，或许能描述出来，但懒于去做，还在学习中，就算描述出来了，也不知道猴年马月才能实现，先简单的做吧，如果可以，只要知道0和1就好了，何况变化既然是绝对的，那就这样吧，既然描述不出来，起个名字吧，这总可以。既然注定是不断变化的，那就学习吧，学习吗，这个话题会不会太严肃，不够自然啊，那就游戏吧，游戏吗？偏见太多，索性就通过游戏来学习吧，learnbgame挺好，so，learnbgame is learn by game。
+
+
 # Learnbgame
-Learbgame is learn by game
+## Learbgame is learn by game
 
-Internet of Things - so that all the objects of life can be perceived，all things are linked!!!!!
+现在我们来达成一些共识吧：
 
-3D printing - so that all the world's objects can be copied, thought and make things!！！！！
+变化是绝对的吧？好。那么learnbgame就得有时刻应对变化的觉悟
+
+事物之间都是有联系的吧？怀疑，多想想吧，你会同意这个观点的，那么我们来提个口号吧，，，万物互联
+
+复杂是由简单进化的？如果你不同意这个观点，我只能默认你很有激情，很有挑战精神，凡事爱挑硬骨头啃
+
+》》》 
+......
+
+太多了，日后慢慢补充吧，关键词只有一个learnbgame
+
+
+
+
