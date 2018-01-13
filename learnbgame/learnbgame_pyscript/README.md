@@ -27,7 +27,10 @@ Pure Python
     parser.  The Form XObject capability of pdfrw means that, in many
     cases, it does not actually need to decompress objects -- they
     can be left compressed.
+-  [tabula-py](https://github.com/chezou/tabula-py)__
 
+    https://github.com/chezou/tabula-py
+    
 -  [pdftools](http://www.boddie.org.uk/david/Projects/Python/pdftools/index.html)__
 
     pdftools feels large and I fell asleep trying to figure out how it
