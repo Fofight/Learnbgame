@@ -74,3 +74,11 @@ Other tools
    that also comes with some command line tools. One of those, ``mutool``, has big overlaps with pdftk's - 
    except it is up to 10 times faster.
 
+Related Projects
+----------------
+
+ * <a href="http://pybrary.net/pyPdf/">pyPdf</a>
+ * <a href="http://www.foolabs.com/xpdf/">xpdf</a>
+ * <a href="http://pdfbox.apache.org/">pdfbox</a>
+ * <a href="http://mupdf.com/">mupdf</a>
+
