@@ -29,7 +29,7 @@ Pure Python
     can be left compressed.
 -  [tabula-py](https://github.com/chezou/tabula-py)__
 
-    https://github.com/chezou/tabula-py
+    Simple wrapper of tabula-java: extract table from PDF into pandas DataFrame
     
 -  [pdftools](http://www.boddie.org.uk/david/Projects/Python/pdftools/index.html)__
 
