@@ -10,8 +10,7 @@ Pure Python
 
 -  [reportlab](http://www.reportlab.org/)__
 
-    reportlab is must-have software if you want to programmatically
-    generate arbitrary PDFs.
+    如果您想以编程方式生成任意PDF，reportlab是必备软件。
 
 -  [pyPdf](https://github.com/mstamy2/PyPDF2)__
 
@@ -38,6 +37,10 @@ Pure Python
     like `reportlab <http://www.reportlab.org/>`__ (open source, from
     the people who make pagecatcher) so I'm sure pagecatcher is great,
     better documented and much more full-featured than pdfrw.
+    
+-   [pdfrw](https://github.com/pmaupin/pdfrw)__
+
+    pdfrw is a pure Python library that reads and writes PDFs
 
 -   [pdfminer](http://www.unixuser.org/~euske/python/pdfminer/index.html)__
 
@@ -81,4 +84,5 @@ Related Projects
  * <a href="http://www.foolabs.com/xpdf/">xpdf</a>
  * <a href="http://pdfbox.apache.org/">pdfbox</a>
  * <a href="http://mupdf.com/">mupdf</a>
+ * <a href="https://github.com/pdfminer/pdfminer.six">pdfminer.six</a>
 
