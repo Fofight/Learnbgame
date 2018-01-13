@@ -12,6 +12,10 @@ Pure Python
 
     如果您想以编程方式生成任意PDF，reportlab是必备软件。
 
+-  [pdfplumber](https://github.com/jsvine/pdfplumber)__
+    
+   Plumb a PDF for detailed information about each char, rectangle, line, et cetera — and easily extract text and tables
+
 -  [pyPdf](https://github.com/mstamy2/PyPDF2)__
 
     pyPdf is, in some ways, very full-featured. It can do decompression
