@@ -8,12 +8,12 @@ Other libraries
 Pure Python
 -----------
 
--  `reportlab <http://www.reportlab.org/>`__
+-  [reportlab](http://www.reportlab.org/)__
 
     reportlab is must-have software if you want to programmatically
     generate arbitrary PDFs.
 
--  `pyPdf <https://github.com/mstamy2/PyPDF2>`__
+-  [pyPdf](https://github.com/mstamy2/PyPDF2)__
 
     pyPdf is, in some ways, very full-featured. It can do decompression
     and decryption and seems to know a lot about items inside at least
@@ -25,12 +25,12 @@ Pure Python
     cases, it does not actually need to decompress objects -- they
     can be left compressed.
 
--  `pdftools <http://www.boddie.org.uk/david/Projects/Python/pdftools/index.html>`__
+-  [pdftools](http://www.boddie.org.uk/david/Projects/Python/pdftools/index.html)__
 
     pdftools feels large and I fell asleep trying to figure out how it
     all fit together, but many others have done useful things with it.
 
--  `pagecatcher <http://www.reportlab.com/docs/pagecatcher-ds.pdf>`__
+-  [pagecatcher](http://www.reportlab.com/docs/pagecatcher-ds.pdf)__
 
     My understanding is that pagecatcher would have done exactly what I
     wanted when I built pdfrw. But I was on a zero budget, so I've never
@@ -39,7 +39,7 @@ Pure Python
     the people who make pagecatcher) so I'm sure pagecatcher is great,
     better documented and much more full-featured than pdfrw.
 
--  `pdfminer <http://www.unixuser.org/~euske/python/pdfminer/index.html>`__
+-   [pdfminer](http://www.unixuser.org/~euske/python/pdfminer/index.html)__
 
     This looks like a useful, actively-developed program. It is quite
     large, but then, it is trying to actively comprehend a full PDF
@@ -56,21 +56,21 @@ Pure Python
 non-pure-Python libraries
 -------------------------
 
--  `pyPoppler <https://launchpad.net/poppler-python/>`__ can read PDF
+-  [pyPoppler](https://launchpad.net/poppler-python/)__ can read PDF
    files.
--  `pycairo <http://www.cairographics.org/pycairo/>`__ can write PDF
+-  [pycairo](http://www.cairographics.org/pycairo/)__ can write PDF
    files.
--  `PyMuPDF <https://github.com/rk700/PyMuPDF>`_ high performance rendering
+-  [PyMuPDF](https://github.com/rk700/PyMuPDF)_ high performance rendering
    of PDF, (Open)XPS, CBZ and EPUB
 
 Other tools
 -----------
 
--  `pdftk <https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/>`__ is a wonderful command
+-  [pdftk](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/)__ is a wonderful command
    line tool for basic PDF manipulation. It complements pdfrw extremely
    well, supporting many operations such as decryption and decompression
    that pdfrw cannot do.
--  `MuPDF <http://www.mupdf.com/>`_ is a free top performance PDF, (Open)XPS, CBZ and EPUB rendering library
+-  [MuPDF](http://www.mupdf.com/)_ is a free top performance PDF, (Open)XPS, CBZ and EPUB rendering library
    that also comes with some command line tools. One of those, ``mutool``, has big overlaps with pdftk's - 
    except it is up to 10 times faster.
 
