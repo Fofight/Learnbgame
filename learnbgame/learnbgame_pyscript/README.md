@@ -104,4 +104,5 @@ Related Projects
  * <a href="http://pdfbox.apache.org/">pdfbox</a>
  * <a href="http://mupdf.com/">mupdf</a>
  * <a href="https://github.com/pdfminer/pdfminer.six">pdfminer.six</a>
-
+ * <a href="https://github.com/LRQ3000/easytextract">easytextract</a>
+ * <a href="https://github.com/PDFTron/PDFNetWrappers">PDFNetWrappers</a>
