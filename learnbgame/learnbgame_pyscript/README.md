@@ -50,7 +50,8 @@ Pure Python
     pdfrw is a pure Python library that reads and writes PDFs
 
 -   [pdfminer](http://www.unixuser.org/~euske/python/pdfminer/index.html)__
-
+    [pdfminer3k](https://github.com/jaepil/pdfminer3k)
+    [pdfminer](https://github.com/euske/pdfminer)
     This looks like a useful, actively-developed program. It is quite
     large, but then, it is trying to actively comprehend a full PDF
     document. From the website:
