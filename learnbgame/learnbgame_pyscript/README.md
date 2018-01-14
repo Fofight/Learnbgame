@@ -27,6 +27,7 @@ Pure Python
     parser.  The Form XObject capability of pdfrw means that, in many
     cases, it does not actually need to decompress objects -- they
     can be left compressed.
+
 -  [tabula-py](https://github.com/chezou/tabula-py)__
 
     Simple wrapper of tabula-java: extract table from PDF into pandas DataFrame
@@ -50,8 +51,11 @@ Pure Python
     pdfrw is a pure Python library that reads and writes PDFs
 
 -   [pdfminer](http://www.unixuser.org/~euske/python/pdfminer/index.html)__
-    [pdfminer3k](https://github.com/jaepil/pdfminer3k)
-    [pdfminer](https://github.com/euske/pdfminer)
+    
+    [pdfminer3k](https://github.com/jaepil/pdfminer3k)__
+    
+    [pdfminer](https://github.com/euske/pdfminer)__
+    
     This looks like a useful, actively-developed program. It is quite
     large, but then, it is trying to actively comprehend a full PDF
     document. From the website:
@@ -69,19 +73,26 @@ non-pure-Python libraries
 
 -  [pyPoppler](https://launchpad.net/poppler-python/)__ can read PDF
    files.
+
 -  [pycairo](http://www.cairographics.org/pycairo/)__ can write PDF
    files.
+
 -  [PyMuPDF](https://github.com/rk700/PyMuPDF)_ high performance rendering
    of PDF, (Open)XPS, CBZ and EPUB
 
 Other tools
 -----------
 
--  [pdftk](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/)__ is a wonderful command
+-  [pdftk](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/)__
+   
+   is a wonderful command
    line tool for basic PDF manipulation. It complements pdfrw extremely
    well, supporting many operations such as decryption and decompression
    that pdfrw cannot do.
--  [MuPDF](http://www.mupdf.com/)_ is a free top performance PDF, (Open)XPS, CBZ and EPUB rendering library
+
+-  [MuPDF](http://www.mupdf.com/)_ 
+   
+   is a free top performance PDF, (Open)XPS, CBZ and EPUB rendering library
    that also comes with some command line tools. One of those, ``mutool``, has big overlaps with pdftk's - 
    except it is up to 10 times faster.
 
