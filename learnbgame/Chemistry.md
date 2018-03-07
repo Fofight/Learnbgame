@@ -36,6 +36,8 @@
 
 [academic.oup](https://academic.oup.com/nar/article/28/1/235/2384399)
 
-[ctan]https://www.ctan.org/topic/chemistry
+[ctan](https://www.ctan.org/topic/chemistry)
+
+[一些有用的化学化工网站 ](http://mp.weixin.qq.com/s/itYPK2AzB09R5PiY9qKGyQ)
 
 
