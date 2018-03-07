@@ -36,6 +36,15 @@
 
 [academic.oup](https://academic.oup.com/nar/article/28/1/235/2384399)
 
-[ctan]https://www.ctan.org/topic/chemistry
+[ctan](https://www.ctan.org/topic/chemistry)
+
+[一些有用的化学化工网站 ](http://mp.weixin.qq.com/s/itYPK2AzB09R5PiY9qKGyQ)
 
 
+[实用化工数据库](http://cheman.chemnet.com/en-msds.html)
+
+[anychem-化化网](http://www.anychem.com/dict/)
+
+[化学反应](http://www.orgsyn.org/)
+
+[晶体学数据库](http://www.cailiaoniu.com/35964.html)
