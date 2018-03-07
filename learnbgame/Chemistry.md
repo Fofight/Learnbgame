@@ -44,3 +44,5 @@
 [实用化工数据库](http://cheman.chemnet.com/en-msds.html)
 
 [anychem-化化网](http://www.anychem.com/dict/)
+
+[化学反应](http://www.orgsyn.org/)
