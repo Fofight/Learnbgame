@@ -48,3 +48,5 @@
 [化学反应](http://www.orgsyn.org/)
 
 [晶体学数据库](http://www.cailiaoniu.com/35964.html)
+
+[pyscf](https://github.com/sunqm/pyscf):Python module for quantum chemistry
